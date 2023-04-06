@@ -1,0 +1,14 @@
+/* Write your code here. */
+.gallery {
+  padding: 50px;
+  font-family: roboto;
+}
+.thumbnailcontainer {
+  display: flex;
+}
+.widthOfimage {
+  width: 800px;
+}
+.pera {
+  color: #1e293b;
+}
